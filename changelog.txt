@@ -1,0 +1,60 @@
+0.0.6.0 / 2022-11-23 / For internal test use
+
+• Building for @GunsAndBuns and @CCNewsFlash included
+• Smaller parking tower
+• Start / finish line at race track
+• Changed marking of land plots
+• Ocean water according to the render pipeline
+• Antennas and boxes on H1 roof
+• New lanterns ot harbour area
+• Bank building test integration
+• Loading text on game start integrated
+
+0.0.5.1 / 2022-11-02 / For internal test use
+
+• Minor bug fixes
+• Photon connection test
+• In-Game console added
+
+0.0.5.0 / 2022-10-19 / For internal test use
+
+• Additional buildings
+• Graveyard added
+• More trees, palms, details
+
+0.0.4.0 / 2022-08-16 / For internal test use
+
+• Behavior/positioning of inventory panel fixed/changed
+• Behavior/positioning of waypoints during car driving fixed
+• Green element of CCP display now moves with the CCP amount
+
+0.0.3.0 / 2022-08-09 / For internal test use
+
+• REBUILD
+• Aggreator inserted
+• Waypoints inserted
+• Missions added
+• Steering on cars optimized
+
+0.0.2.0 / 2022-07-13 / For internal test use
+
+• Race track inserted
+• Bridge_03 inserted
+• Graphic options added
+• Key assignment accessible in menu
+• Map function added
+• Water respawn function for vehicles added
+• Various colliders added
+• Achievements panel added
+• Stairs in front of HiQ tower fixed
+• Stairs in building H2/archive fixed
+• Height difference road/curb reduced
+• Terrain around roads raised
+• Player flight function fixed
+• All vehicles made accessible
+• Speed of the turntable in the dealership reduced
+• NavMeshAgent taken out
+
+0.0.1.0 /  2022-07-06 / For internal test use
+
+• Release of the first alpha version.
